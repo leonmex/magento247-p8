@@ -29,7 +29,7 @@ The root `docker-compose.yml` defines the following services:
 ## Getting Started
 
 1. Clone this repository:
-   - `git clone <this-repo-url> magento247`
+   - `git clone https://github.com/leonmex/magento247-p8.git magento247`
 2. Place your Magento 2.4.7-p8 project into `code/` (for example, clone **magento247-p8** directly into `code/`):
    - `cd magento247`
 3. Build and Start the Docker environment:
